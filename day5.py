@@ -5,7 +5,7 @@ Created on Fri Nov 23 12:51:33 2018
 @author: Lenovo
 """
 
-#抓取猫眼电影TOP100榜
+#抓取猫眼电影TOP100榜#
 from multiprocessing import Pool
 from requests.exceptions import RequestException
 import requests
