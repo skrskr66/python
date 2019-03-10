@@ -86,3 +86,6 @@ if __name__ == '__main__':
     pool = Pool()
     #map方法会把每个元素当做函数的参数,创建一个个进程,在进程池中运行.
     pool.map(main,[i*10 for i in range(10)])
+爬虫还是得有可视化
+
+
